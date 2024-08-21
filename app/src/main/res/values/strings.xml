@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="hint_note_title">Enter Note Title</string>
+    <string name="hint_note_content">Enter Note Content</string>
+    <string name="button_save">Save</string>
+    <!-- Add any other string resources you need -->
+</resources>
